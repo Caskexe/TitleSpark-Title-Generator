@@ -14,4 +14,4 @@ Perfect for albums, EPs, or any project that needs a spark, TitleSpark turns a b
 
 ## Thanks
 You totally don't need to support me and my random annoyance at seeing fellow web designers using Lorem Ipsum everywhere, but if you found a random-ass paragraph I wrote and a web tool that literally just spams a text box useful then donations are totally appreciated!
-[I am using Ko-Fi](https://ko-fi.com/caskexe)
+- [I am using Ko-Fi](https://ko-fi.com/caskexe)
