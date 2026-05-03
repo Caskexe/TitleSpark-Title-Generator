@@ -12,6 +12,9 @@ Quickly copy ideas to keep your creative sessions moving
 
 Perfect for albums, EPs, or any project that needs a spark, TitleSpark turns a blank page into endless possibilities.
 
+- [Use the online version](https://html-preview.github.io/?url=https%3A%2F%2Fgithub.com%2FCaskexe%2FTitleSpark-Title-Generator%2Fblob%2Fmain%2FTitleSpark-Generator-v1.html)
+- or download the html file and run locally.
+
 ## Thanks
 You totally don't need to support me and my random annoyance at seeing fellow web designers using Lorem Ipsum everywhere, but if you found a random-ass paragraph I wrote and a web tool that literally just spams a text box useful then donations are totally appreciated!
 - [I am using Ko-Fi](https://ko-fi.com/caskexe)
